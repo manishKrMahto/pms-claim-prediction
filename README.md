@@ -2,7 +2,7 @@
 
 A FastAPI project for managing patient claim records with full **CRUD operations** and **claim prediction** functionality. This project was built as part of the [CampusX FastAPI Deployment Course](https://www.youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ) by **Nitish Sir**.
 
-
+![pms claim fronted image](images/pms_claim_frontend.jpg)
 ---
 
 ## 🔧 Features
